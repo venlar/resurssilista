@@ -7,17 +7,18 @@ Tähän resurssilistaan päivitän löytämiäni hyviä linkkejä ja muita resur
 
 - [ISTQB](https://www.istqb.org/)
     - Perustaso
-        - [https://tivia.fi/fistb-testi/wp-content/uploads/sites/30/2020/12/CTFL-2018-Sertifikaattisisalto-20181010-1-Valmis.pdf](https://tivia.fi/fistb-testi/wp-content/uploads/sites/30/2020/12/CTFL-2018-Sertifikaattisisalto-20181010-1-Valmis.pdf)
+        - [Sisältö](https://tivia.fi/fistb-testi/wp-content/uploads/sites/30/2020/12/CTFL-2018-Sertifikaattisisalto-20181010-1-Valmis.pdf)
     - Jatkotaso
     - Asiantuntijataso
 - [FISTB](https://fistb.fi/)
 - iSQI
 - DASA DevOps
+- AWS Certified Cloud Practitioner
 
 ### Kirjat
 
 - Jussi Kasurinen: Ohjelmistotestauksen käsikirja
-- Kari Kakkonen: Dragons out! (Suunnattu lapsille)
+- Kari Kakkonen: Dragons out! (Suunnattu lapsille, käy myös aikuisille :smile:)
 - Adam Roman: A Study Guide to the ISTQB Foundation Level 2018 Syllabus
 - Robert C. Martin: Clean Code: A Handbook of Agile Software Craftmanship
 - Daniel J. Mosley, Bruce A. Posey: The Just Enough Software Test Automation
@@ -30,9 +31,10 @@ Tähän resurssilistaan päivitän löytämiäni hyviä linkkejä ja muita resur
 - LUT: Ohjelmistojen laadunhallinta (Jussi Kasurinen)
     - Materiaalista osa julkisena Youtubessa
 - Fitech
-- Test Automation University
-- Ministry of Testing
-- BBST Foundations
+- [Test Automation University](https://testautomationu.applitools.com/)
+    - Learning paths, esim. Web UI Python Path
+- [Ministry of Testing](https://www.ministryoftesting.com/)
+- [BBST Foundations](https://bbst.courses/bbst-foundations/)
 
 ### Videot
 
@@ -56,6 +58,16 @@ Tähän resurssilistaan päivitän löytämiäni hyviä linkkejä ja muita resur
 - UiPath
 - BluePrism
 - PowerAutomate
+
+### Tietoturvatestaus
+
+- Burp Suite
+    -[Udemy-kurssi](https://www.udemy.com/course/burp-suite-in-depth-survival-guide/)
+- OWASP Zap
+- TryHackMe
+- Proving Grounds
+- HackTheBox
+
 
 ### Muut taidot
 
