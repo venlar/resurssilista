@@ -30,11 +30,12 @@ Tähän resurssilistaan päivitän löytämiäni hyviä linkkejä ja muita resur
 
 - LUT: Ohjelmistojen laadunhallinta (Jussi Kasurinen)
     - Materiaalista osa julkisena Youtubessa
-- Fitech
+- Fitechin tarjonta
 - [Test Automation University](https://testautomationu.applitools.com/)
     - Learning paths, esim. Web UI Python Path
 - [Ministry of Testing](https://www.ministryoftesting.com/)
 - [BBST Foundations](https://bbst.courses/bbst-foundations/)
+- [Exploratory Testing Foundations](https://dev.to/maaretp/exploratory-testing-foundations-4lb3)
 
 ### Videot
 
