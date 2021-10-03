@@ -83,6 +83,9 @@ Tähän resurssilistaan päivitän löytämiäni hyviä linkkejä ja muita resur
 - JIRA
 - Confluence
 
+### Tietokannat
+- [SQL Murder Mystery](https://mystery.knightlab.com/) (mielenkiintoinen tapa oppia SQL:ää)
+
 ### Blogit
 
 - Maaret Pyhäjärven blogi [https://visible-quality.blogspot.com/](https://visible-quality.blogspot.com/)
